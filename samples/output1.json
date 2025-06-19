@@ -1,0 +1,18 @@
+{
+    "summary": "The team has set a final QA timeline for a June 3 rollout. Anjali is tasked with completing the user manual draft, while the development team investigates a login bug. Initial planning has also begun for an early access user engagement campaign.",
+    "decisions": [
+        "Final round of quality assurance testing is locked for June 3 rollout.",
+        "Initial planning has started for the early access user engagement campaign."
+    ],
+    "actionItems": [
+        {
+            "task": "Wrap up user manual draft.",
+            "owner": "Anjali",
+            "due": "June 1"
+        },
+        {
+            "task": "Analyze root cause of recent authentication failures.",
+            "owner": "Dev team"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "summary": "The meeting on May 27th covered updates on feature rollout, client feedback, support tickets, and team availability. A decision was made to defer the full rollout of dark mode to June 5th, and UI tasks were prioritized for the early June sprint.",
+    "decisions": [
+        "Full rollout decision for dark mode deferred to June 5.",
+        "Include top UX fixes in the next sprint.",
+        "Weekly ticket reviews to be formalized.",
+        "Approved short-term coverage plan for team leaves.",
+        "UI tasks prioritized for early June sprint."
+    ],
+    "actionItems": [
+        {
+            "task": "Monitor dark mode metrics and prepare for full release.",
+            "owner": "Nikhil"
+        },
+        {
+            "task": "Prioritize top 3 user suggestions.",
+            "owner": "Meera"
+        },
+        {
+            "task": "Resolve pending support issues.",
+            "owner": "Arjun",
+            "due": "May 30"
+        },
+        {
+            "task": "Reassign tasks temporarily for Rahul & Priya's leave.",
+            "owner": "Sneha"
+        },
+        {
+            "task": "Finalize sprint backlog.",
+            "owner": "Riya",
+            "due": "May 31"
+        }
+    ]
+}

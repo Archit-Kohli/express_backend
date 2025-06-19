@@ -1,0 +1,6 @@
+Meeting Notes – May 27
+
+QA Timeline: Final round of quality assurance testing locked for June 3 rollout.
+User Docs: Anjali assigned to wrap up user manual draft before June 1 deadline.
+Login Bug: Dev team analyzing root cause of recent authentication failures.
+Marketing Strategy: Initial planning started for early access user engagement campaign.

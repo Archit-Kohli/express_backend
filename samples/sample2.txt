@@ -1,0 +1,8 @@
+Meeting Summary – May 27
+|    Topic          |   Update                             |   Responsible     |   Actionables                              |   Decisions                                 |
+| ----------------- | ------------------------------------ | ----------------- | ------------------------------------------ | ------------------------------------------- |
+| Feature Rollout   | Dark mode live for 50% users.        | Dev Team (Nikhil) | Monitor metrics, prepare for full release. | Full rollout decision deferred to June 5.   |
+| Client Feedback   | Beta users shared improvements.      | UX Team (Meera)   | Prioritize top 3 suggestions.              | Include top UX fixes in next sprint.        |
+| Support Tickets   | 12 new, 7 pending.                   | Support (Arjun)   | Resolve pending issues by May 30.          | Weekly ticket reviews to be formalized.     |
+| Team Availability | Rahul & Priya on leave May 29–Jun 2. | HR (Sneha)        | Reassign tasks temporarily.                | Approved short-term coverage plan.          |
+| Next Steps        | UI polish + sprint scope planning.   | PM Team (Riya)    | Finalize sprint backlog by May 31.         | UI tasks prioritized for early June sprint. |
