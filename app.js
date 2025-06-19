@@ -1,14 +1,13 @@
 import express from 'express';
+import meetingNotesRoute from './routes/meetingNotesRoute.js'
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(express.json());
+app.use(express.text());
 
-app.get('/',(req,res)=>{
-    res.send('Hello from express.js!')
-});
+app.use('/', meetingNotesRoute);
 
-app.listen(PORT,()=>{
+app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
 });
